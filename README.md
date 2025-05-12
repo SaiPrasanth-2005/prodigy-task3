@@ -18,3 +18,9 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ![Game Screenshot](screenshot.png) <!-- Add your screenshot file -->
 
 ## 📁 Project Structure
+
+## 🔧 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SaiPrasanth-2005/tic-tac-toe-webapp.git
+   cd tic-tac-toe-webapp
